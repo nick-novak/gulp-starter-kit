@@ -1,1 +1,2 @@
-console.log('plugins');
+const pTest = 'plugins'
+console.log(pTest);

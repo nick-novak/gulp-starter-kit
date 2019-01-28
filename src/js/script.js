@@ -1,1 +1,2 @@
-console.log('script');
+const sTest = 'scripts'
+console.log(sTest);
